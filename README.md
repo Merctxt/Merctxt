@@ -9,7 +9,7 @@
 
 **`print("Hello world!")`**
 
-- 🌱 Me chamo Giovanni, tenho 17 anos, sou natural do Rio Grande do Sul. Atualmente estou aprendendo e estudando sobre Python, HTML5, CSS3, SQL pela internet. Meu sonho é poder fazer um intercâmbio nos EUA para me aprofundar na área de TI, e trabalhar no futuro.
+- 🌱 Olá! Meu nome é Giovanni, um entusiasta de tecnologia de 17 anos atualmente estudando Desenvolvimento Web e Ciência de Dados. Tenho experiência em Python, HTML, CSS, SQLite, Git e estou aprofundando meus conhecimentos em Django. Sigo em busca constante de aprimoramento e inovação na área de TI.
 
 
 <br>
@@ -28,18 +28,12 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Merctxt?color=363636&labelColor=363636&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
-            <a href="https://www.instagram.com/_giovanni.dev/">
-        <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/giovanni-vanini-39154a338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
         <img 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:giovannihettwer2@gmail.com">
+    <a href="mailto:merctxt2@proton.me">
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
@@ -114,13 +108,7 @@
 ### 📊 Meus dados
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="140" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Merctxt&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
@@ -134,19 +122,3 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
-
-
-### 🛠️ Minhas contribuições
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Merctxt/Merctxt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Merctxt/Merctxt/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Merctxt/Merctxt/output/github-contribution-grid-snake.svg">
-</picture>
-
