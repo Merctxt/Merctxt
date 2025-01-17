@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Olá! Meu nome é Giovanni ;)
 
-**`print("Hello world!")`**
+
 
 - 🌱 Olá! Meu nome é Giovanni, um entusiasta de tecnologia de 17 anos atualmente estudando Desenvolvimento Web e Ciência de Dados. Tenho experiência em Python, HTML, CSS, SQLite, Git e estou aprofundando meus conhecimentos em Django. Sigo em busca constante de aprimoramento e inovação na área de TI.
 
