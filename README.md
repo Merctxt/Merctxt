@@ -11,9 +11,6 @@
     <td>
       🌱 Hello! My name is Giovanni, a 17-year-old technology enthusiast currently studying Web Development and Data Science. I have experience with Python, HTML, CSS, SQLite, Git, and I’m currently deepening my knowledge in Django. I’m also learning to create scripts in JavaScript and Lua. I’m constantly seeking improvement and innovation in the IT field.
     </td>
-    <td>
-      <img src="https://i.imgur.com/iF35CrD.gif" height="140" width="140" />
-    </td>
   </tr>
 </table>
 <br>
