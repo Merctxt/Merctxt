@@ -9,7 +9,7 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
-      🌱 Hello! My name is Giovanni, a 17-year-old technology enthusiast currently studying Web Development and Data Science. I have experience with Python, HTML, CSS, SQLite, Git, and I’m currently deepening my knowledge in Django. I’m also learning to create scripts in JavaScript and Lua. I’m constantly seeking improvement and innovation in the IT field.
+      🌱 I am a Young Apprentice in IT at Metadados, supporting the system development and maintenance team. I participate in activities such as analysis, coding, testing, software maintenance, and integration of APIs and external tools, always aligned with company standards. I started my undergraduate degree in Systems Analysis and Development at UCS and hold certifications in Algorithms and Programming Logic, as well as Python 3 from Udemy. I have a special interest in software development, with experience in Python and C#, and I seek continuous improvement to contribute to robust and efficient solutions in the technology field.
     </td>
   </tr>
 </table>
