@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 align="center">Hey! I'm Giovanni, and i'm from Brazil</h2>
+<h2 align="center">Hey! I'm Giovanni</h2>
 <br>
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
