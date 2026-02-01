@@ -18,30 +18,7 @@ I have solid experience with React and the core web stack (JavaScript, HTML, CSS
 <br>
 
 ###
-<div align="center">
-    <p>
-        <a href="https://github.com/Mertxt?tab=repositories&sort=stargazers">
-            <img 
-                alt="Total de estrelas" 
-                title="Total de estrelas GitHub" 
-                src="https://custom-icon-badges.demolab.com/github/stars/Merctxt?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-            />
-        </a>
-            <a href="https://github.com/Merctxt?tab=followers">
-            <img 
-                alt="Seguidores" 
-                title="Me siga no GitHub" 
-                src="https://custom-icon-badges.demolab.com/github/followers/Merctxt?color=363636&labelColor=363636&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-            />
-        <a href="https://www.linkedin.com/in/giovanni-vanini-39154a338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
-            <img 
-                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            />
-        </a>
-    </p>
-</div>
 
-<br>
 <br>
 
 <div align="center">
@@ -75,5 +52,7 @@ I have solid experience with React and the core web stack (JavaScript, HTML, CSS
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   </p>
 </div>
+
+![Calandar](./metrics.plugin.isocalendar.fullyear.svg)
 
 ##
