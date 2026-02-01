@@ -17,5 +17,27 @@ I have solid experience with React and the core web stack (JavaScript, HTML, CSS
 </table>
 <br>
 
-![resume](./github-metrics.svg)
-![terminal](./metrics.terminal.svg)
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+
+  <!-- Resume -->
+  <td width="50%" align="center" valign="top">
+    <img
+      src="./github-metrics.svg"
+      alt="GitHub Metrics"
+      style="max-width: 95%; height: auto;"
+    />
+  </td>
+
+  <!-- Terminal -->
+  <td width="50%" align="center" valign="top">
+    <img
+      src="./metrics.terminal.svg"
+      alt="Terminal Activity"
+      style="max-width: 95%; height: auto;"
+    />
+  </td>
+
+  </tr>
+</table>
+
