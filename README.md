@@ -17,6 +17,8 @@ I have solid experience with React and the core web stack (JavaScript, HTML, CSS
 </table>
 <br>
 
+![resume](./github-metrics.svg)
+
 ###
 
 <br>
