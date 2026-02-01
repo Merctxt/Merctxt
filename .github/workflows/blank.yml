@@ -8,7 +8,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics embed
-        uses: lowlighter/metrics@v3.34
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
