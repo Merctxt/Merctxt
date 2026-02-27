@@ -8,11 +8,15 @@
 <br>
 <div align="center">
   <p>
-    I’m a Junior Software Developer with 1 year of professional experience, currently working at a company within the Volaris group, where I maintain and improve systems across the .NET ecosystem. My work focuses on system maintenance, performance optimization, and continuous improvements that generate real results, including better scalability, cleaner code, and cost savings for the team.
+    I’m a Junior Software Developer with 1+ year of professional experience, currently working at a company within the Volaris Group, maintaining and improving systems across the .NET ecosystem.
   </p>
 
   <p>
-    I have solid experience with React and the core web stack (JavaScript, HTML, CSS), working on web applications and integrations with back-end services. I’ve also developed RESTful APIs to support digital business processes and server management, including systems that handle high volumes of data, always prioritizing performance, reliability, and clean architecture.
+    My main focus is on C# and .NET development, working on system maintenance, performance optimization, and continuous improvements that drive real impact — including better scalability, cleaner architecture, and cost efficiency.
+  </p>
+
+  <p>
+    I also have solid experience with React and the modern web stack (JavaScript, HTML, CSS), building web applications and integrating front-end solutions with RESTful APIs. I’ve worked on backend services that support high-volume data processing and digital business workflows, always prioritizing performance, reliability, and clean code practices.
   </p>
 </div>
 
