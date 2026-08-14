@@ -8,15 +8,11 @@
 <br>
 <div align="center">
   <p>
-    I’m a Junior Software Developer with 1+ year of professional experience, currently working at a company within the Volaris Group, maintaining and improving systems across the .NET ecosystem.
+    I am a Software Developer Trainee within the Volaris Group, contributing to the maintenance and evolution of business-critical systems. My focus is on C# and backend development in the .NET ecosystem, alongside hands-on experience with desktop applications, Flutter mobile apps, and RESTful API integrations.
   </p>
 
   <p>
-    My main focus is on C# and .NET development, working on system maintenance, performance optimization, and continuous improvements that drive real impact — including better scalability, cleaner architecture, and cost efficiency.
-  </p>
-
-  <p>
-    I also have solid experience with React and the modern web stack (JavaScript, HTML, CSS), building web applications and integrating front-end solutions with RESTful APIs. I’ve worked on backend services that support high-volume data processing and digital business workflows, always prioritizing performance, reliability, and clean code practices.
+    Currently in my first year of a Bachelor’s degree in Systems Analysis and Development, I actively connect academic fundamentals in software architecture and data structures with real-world project challenges.
   </p>
 </div>
 
